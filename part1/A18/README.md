@@ -2,7 +2,7 @@
 
 ## What is an AI Hallucination?
 When a generative AI model produces output that is factually 
-incorrect, fabricated, or misleading — often stated with 
+incorrect, fabricated, or misleading. Often stated with 
 high confidence. This is a known limitation of large language 
 models (LLMs).
 
