@@ -17,7 +17,7 @@ across Internet of Things devices.
 ## Notes
 The Dahua camera found in A13 via Shodan is a real
 example of an IoT device with weak/absent cryptographic
-implementation — no HTTPS, exposed login page.
+implementation, no HTTPS, exposed login page.
 
 ## References
 - https://www.iotsecurityfoundation.org
