@@ -21,7 +21,7 @@ provides feedback on how to improve weak passwords.
 Weak passwords are one of the leading causes of account 
 compromise. This tool helps users understand whether their 
 passwords meet basic security standards before using them, 
-directly addressing one of the most common attack vectors —
+directly addressing one of the most common attack vectors,
 credential based attacks.
 
 ## How to run
