@@ -15,7 +15,8 @@ Ran the same prompt three times asking for a thriller opening about a character 
 Both cases show bias operating in opposite directions. Case 1 reflects training data stereotypes passively. Case 2 shows overcorrection bias - the model avoids one stereotype so aggressively it consistently produces a different skewed demographic instead.
 
 ## Evidence Files
-
+ChatGPT1.pdf - prompt and response for story about Leo and Maya
+ChatGPT2.pdf - prompt and response for terrorist story
 
 ## Tool Used
 ChatGPT GPT-4o
